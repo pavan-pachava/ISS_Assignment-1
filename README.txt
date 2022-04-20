@@ -2,7 +2,7 @@ ISS Assignment 1
 2021101013
 
 GIT Repository link:
-https://github.com/Harshavardhan-Pandurangan/ISS-Assignment-1.git
+https://github.com/pavan-pachava/ISS_Assignment-1.git
 
 Execute permissions should be given to all the scripts before running them.
 
